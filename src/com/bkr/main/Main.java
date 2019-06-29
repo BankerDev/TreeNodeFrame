@@ -26,6 +26,8 @@ public class Main extends AbstractScript {
                 // , new XXTree(env).addChild(xx)
 
         );
+        
+        manager.addNodes(baseNode);
 
     }
 
